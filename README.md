@@ -2,9 +2,8 @@
 
 Setup:
 
-    $ pyvenv env
+    $ python3 -m venv
     $ source env/bin/activate
-    $ pip install --upgrade setuptools pip
     $ pip install jupyter
 
 Run:
