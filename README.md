@@ -2,7 +2,7 @@
 
 Setup:
 
-    $ python3 -m venv
+    $ python3 -m venv env
     $ source env/bin/activate
     $ pip install jupyter
 
